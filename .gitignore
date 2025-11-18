@@ -1,0 +1,22 @@
+# Fichiers binaires et compilés
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.log
+*.suo
+*.user
+*.ipch
+*.iobj
+*.ipdb
+
+# Dossiers générés par Visual Studio
+Debug/
+Release/
+x64/
+ARM64/
+*.vs/
+
+# Fichier de logs
+printprocess.log
